@@ -10,4 +10,4 @@ This is our main github repository.
 
 ---
 
-If you have questions, or anything else, check our [wiki.](
+If you have questions, or anything else, check our [wiki.](https://github.com/The-Terminal-Community/.github/wiki)
